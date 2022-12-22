@@ -1,0 +1,17 @@
+body {
+	background-color: #bcecb5;
+}
+hr,
+p,
+h3 {
+	color: rgb(251, 248, 248);
+}
+body {
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+h1 {
+	font-size: 3em;
+	line-height: 1;
+    color: #ccc;
+}
